@@ -5,7 +5,7 @@ import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
 import { Select, SelectContent, SelectGroup, SelectItem, SelectLabel, SelectValue, SelectTrigger } from "@/components/ui/select";
 
-import { FaPhoneAlt, FaEnvelope, FaMapMarkedAlt } from "react-icons/fa";
+import { FaPhoneAlt, FaEnvelope, FaMapMarkedAlt, FaMapMarker } from "react-icons/fa";
 
 const info = [
     {
@@ -21,7 +21,12 @@ const info = [
     {
         icon:<FaMapMarkedAlt />,
         title: "Address",
-        description: "Jhelum, Punjab, Pakistan"
+        description: " Lahore, Punjab , Pakistan"
+    },
+    {
+        icon:<FaMapMarker />,
+        title: "Relocation",
+        description: " Willing to relocate :)"
     },
 ]
 

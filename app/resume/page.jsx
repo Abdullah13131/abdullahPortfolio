@@ -5,7 +5,7 @@ import { SiTailwindcss, SiNextdotjs, SiExpress, SiHeroku , SiMongodb , SiMysql }
 
 const about ={
     title: "About Me",
-    description: "Computer Science graduate passionate about software development, aspiring full-stack developer driven by innovation and learning. My objective is to pursue my career in your esteemed organization by utilizing my skills, knowledge, and experience in the field. I believe in a positive and proactive mindset with a focus and dedication to quality results.",
+    description: "In this section, you'll find how you can contact me and some information related to me.",
     info: [
         {
             fieldName: "Name:",
@@ -33,42 +33,24 @@ const about ={
 const experience = {
     icon: "",
     title: "My Experience",
-    description: "Computer Science graduate passionate about software development, aspiring full-stack developer driven by innovation and learning. My objective is to pursue my career in your esteemed organization by utilizing my skills, knowledge, and experience in the field. I believe in a positive and proactive mindset with a focus and dedication to quality results.",
+    description: "In this section, you'll find an overview of my experience in industry.",
     items: [
         {
             company: "USquare Solutions",
             position: "Web Developer",
             location: "Islamabad",
             duration: "Jun 2023 - Aug 2023"
-        },
-        {
-            company: "USquare Solutions",
-            position: "Web Developer",
-            location: "Islamabad",
-            duration: "Jun 2023 - Aug 2023"
-        },
-        {
-            company: "USquare Solutions",
-            position: "Web Developer",
-            location: "Islamabad",
-            duration: "Jun 2023 - Aug 2023"
-        },
-        {
-            company: "USquare Solutions",
-            position: "Web Developer",
-            location: "Islamabad",
-            duration: "Jun 2023 - Aug 2023"
-        },
+        }
     ]
 };
 
 const education = {
     icon: "",
     title: "My Education",
-    description: "Computer Science graduate passionate about software development, aspiring full-stack developer driven by innovation and learning. My objective is to pursue my career in your esteemed organization by utilizing my skills, knowledge, and experience in the field. I believe in a positive and proactive mindset with a focus and dedication to quality results.",
+    description: "In this section, you'll find an overview of my education.",
     items: [
         {
-            institute: "Comsats University Islmabad",
+            institute: "Comsat's University Islamabad",
             degree: "Bachelor's Of Science in Computer Science",
             duration: "2020 - 2024"
         },
@@ -78,7 +60,7 @@ const education = {
             duration: "2017 - 2019"
         },
         {
-            institute: "Army Public School & College Sarai Alamagir",
+            institute: "Army Public School Sarai Alamagir",
             degree: "Matriculation",
             duration: "2015 - 2017"
         },
@@ -87,7 +69,7 @@ const education = {
 
 const skills = {
     title: "My Skills",
-    description: "Computer Science graduate passionate about software development, aspiring full-stack developer driven by innovation and learning. My objective is to pursue my career in your esteemed organization by utilizing my skills, knowledge, and experience in the field. I believe in a positive and proactive mindset with a focus and dedication to quality results.",
+    description: "In this section, you'll find an overview of my skills.",
     skillList: [
         {
             icon: <FaHtml5 />,
