@@ -8,25 +8,25 @@ const services = [
     {
         num: "01",
         title: "UI/UX Designing",
-        description: "Web development is the building and maintenance of websites; it's the work that happens behind the scenes to make a website look great, work fast and perform well with a seamless user experience.",
+        description: "Dedicated to creating intuitive and visually appealing interfaces that enhance user experience. Experienced in using modern design principles to develop seamless and responsive web and mobile applications, ensuring optimal usability and satisfaction.",
         href: ""
     },
     {
         num: "02",
         title: "Mobile Development",
-        description: "Web development is the building and maintenance of websites; it's the work that happens behind the scenes to make a website look great, work fast and perform well with a seamless user experience.",
+        description: "Skilled in building high-performance, cross-platform mobile apps with smooth user experiences. Having experience in React Native with Expo as well as CLI to deliver efficient, scalable, and visually appealing mobile applications.",
         href: ""
     },
     {
         num: "03",
         title: "Web Development",
-        description: "Web development is the building and maintenance of websites; it's the work that happens behind the scenes to make a website look great, work fast and perform well with a seamless user experience.",
+        description: "Experienced in building dynamic and responsive websites using modern technologies. Having experience in both front-end and back-end development, creating seamless user experiences and efficient web applications. Experienced in utilizing frameworks and libraries to deliver high-quality, scalable web solutions.",
         href: ""
     },
     {
         num: "04",
         title: "Full Stack Development",
-        description: "Web development is the building and maintenance of websites; it's the work that happens behind the scenes to make a website look great, work fast and perform well with a seamless user experience.",
+        description: "Aspiring Full Stack Developer with a strong foundation in both front-end and back-end technologies. Passionate about learning frameworks like MERN stack to build comprehensive web applications. Eager to design intuitive user interfaces, manage databases, and ensure seamless integration for optimal performance and user experience.",
         href: ""
     },
 ];

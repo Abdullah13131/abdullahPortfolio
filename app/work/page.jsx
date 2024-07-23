@@ -54,8 +54,8 @@ const projects = [
     category: "Frontend Development",
     title: "Project 03",
     description:
-      "Frontend mobile application for a Pharmacist App using React Native, specifically designed for medicine shops. The app provides an intuitive interface for shop owners to manage inventory, track sales, and process orders efficiently. React Native enabled us to create a cross-platform application, ensuring a seamless user experience on both iOS and Android devices. With features like real-time notifications and easy search functionality, the app significantly enhances the operational efficiency of medicine shops.",
-    stack: [{ name: "React Native" }, { name: "Javascript" }],
+      "Frontend mobile application for a PharmAssist App using React Native, specifically designed for medicine shops. The app provides an intuitive interface for shop owners to manage inventory, track sales, and process orders efficiently. React Native enabled us to create a cross-platform application, ensuring a seamless user experience on both iOS and Android devices. With features like real-time notifications and easy search functionality, the app significantly enhances the operational efficiency of medicine shops.",
+    stack: [{ name: "React Native" }, { name: "Javascript" }, { name: "FireBase" }],
     image: "/assets/001.jfif",
     live: "",
     github: "https://github.com/Abdullah13131/PharmAssist",
