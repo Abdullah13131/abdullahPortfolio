@@ -5,7 +5,7 @@ import { SiTailwindcss, SiNextdotjs, SiExpress, SiHeroku , SiMongodb , SiMysql }
 
 const about ={
     title: "About Me",
-    description: "In this section, you'll find how you can contact me and some information related to me.",
+    description: "In this section, you'll find my contact and information related to me.",
     info: [
         {
             fieldName: "Name:",
