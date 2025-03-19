@@ -21,7 +21,7 @@ const info = [
     {
         icon:<FaMapMarkedAlt />,
         title: "Address",
-        description: " Lahore, Punjab , Pakistan"
+        description: " Sarai Alamgir, Punjab , Pakistan"
     },
     {
         icon:<FaMapMarker />,
